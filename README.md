@@ -25,5 +25,3 @@ pip install -r requirements.txt
 jupyter notebook taxi_fare.ipynb
 ```
 
----
-⭐ Star this repo if you found it useful!
